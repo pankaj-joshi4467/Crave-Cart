@@ -28,3 +28,20 @@ JWT (JSON Web Tokens): Implemented for secure user authentication and authorizat
 Axios: For making HTTP requests from the frontend to the backend.
 Mongoose: For data modeling and working with MongoDB in an object-oriented way.
 bcrypt: For hashing passwords and ensuring secure authentication.
+
+
+
+
+Future Improvements
+
+Payment Integration: Adding payment gateways like Stripe or PayPal for handling online transactions.
+
+Order Tracking: Implementing real-time order tracking for users to see the status of their orders.
+
+Notifications: Adding email or SMS notifications to keep users informed about their order status.
+
+Acknowledgments:
+
+I would like to thank the team at Vilearnx Advanced Technologies for their guidance and support throughout this project. This internship provided me with invaluable experience in working with the MERN stack and tackling real-world development challenges.
+
+
